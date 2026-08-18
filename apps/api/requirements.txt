@@ -1,0 +1,6 @@
+fastapi===0.141.1
+pydantic===2.13.4
+pydantic-settings===2.15.0
+uvicorn
+gunicorn
+supabase===2.31.0
